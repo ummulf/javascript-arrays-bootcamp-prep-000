@@ -1,3 +1,3 @@
-var superheroines = ["catwoman", "she-hulk", "mystique"];
+var chocolateBars = ["kitkat", "milkybar", "cadbury"];
 
-superheroines.push("wonder woman");
+chocolateBars.push("kitkat");
